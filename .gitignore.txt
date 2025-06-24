@@ -13,6 +13,7 @@ nbproject/private/
 *.war
 *.ear
 *.log
+*.xml
 
 # === Sistema operativo ===
 .DS_Store
